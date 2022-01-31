@@ -1,5 +1,5 @@
 #multidots
-This Website Source code by Sunil nagar
+This Website Source code by Sunil nagar<br>
 phpMyAdmin database : https://github.com/skrnagar/dotdata
 
 //Message for evaluation
@@ -13,11 +13,11 @@ Because busy in my current work in full week and weekend also.
  - Once the form is sent, the admin should receive the email for page/post moderation. Admin can publish that page/post.
  - Develop a Post creation form UI on frontend through a shortcode 
 <br>
-Below points aren't done due to time, but I can, and I am able to explain:
-  - Dropdown (Fetch existing custom post type)
-  - Create a second shortcode or Gutenberg block to show the list of posts which are in pending status for admin approval.   
+Below points aren't done due to time, but I can, and I am able to explain:<br>
+  - Dropdown (Fetch existing custom post type)<br>
+  - Create a second shortcode or Gutenberg block to show the list of posts which are in pending status for admin approval.   <br>
   - The form should be visible only to logged-in authors.
 <br>
 Thank you for giving me opportunities, and I am eager to work with you.
-Thanks and regards
+Thanks and regards<br>
 Sunil Kumar Nagar 
