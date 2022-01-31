@@ -17,7 +17,7 @@ Below points aren't done due to time, but I can, and I am able to explain:<br>
   - Dropdown (Fetch existing custom post type)<br>
   - Create a second shortcode or Gutenberg block to show the list of posts which are in pending status for admin approval.   <br>
   - The form should be visible only to logged-in authors.
-<br>
-Thank you for giving me opportunities, and I am eager to work with you.
+<br><br>
+Thank you for giving me opportunities, and I am eager to work with you.<br>
 Thanks and regards<br>
 Sunil Kumar Nagar 
