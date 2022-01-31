@@ -1,0 +1,19 @@
+ 
+ 
+ ==================29/01/2022 19:34:25 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => profile
+    [menu] => Profile
+    [menu_image_id] => fa fa-user
+    [show_user_profile] => Enable
+    [menu_order] => 3
+    [user_role] => a:6:{i:0;s:13:"administrator";i:1;s:6:"editor";i:2;s:6:"author";i:3;s:11:"contributor";i:4;s:10:"subscriber";i:5;s:5:"guest";}
+    [extended] => 
+)
+ 
+ 
+ ==================29/01/2022 19:34:25 (DEBUG) END================== 
+ 
+ 
